@@ -7,4 +7,4 @@ the link for the autoscraper libray is : https://github.com/alirezamika/autoscra
 * No use of html tags for scraping 
 
 ## Disadvantage 
-* Somtimes we get mixed results so soring them using slicing is required.
+* Somtimes we get mixed results so sorting them using slicing is required.
